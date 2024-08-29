@@ -72,6 +72,11 @@
     font-size: 1em;
     color: #333;
 }
+.pesquisa-container h5{
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #333;
+}
 
 
 #contato {
